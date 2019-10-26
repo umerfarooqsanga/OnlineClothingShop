@@ -1,0 +1,3 @@
+create table types(extension varchar(50) primary key, type varchar (50), icon varchar(50));
+
+create table files(fileId int AUTO_INCREMENT PRIMARY KEY, fileName varchar(50), fileSize int, extension REFERENCES types.extension varchar(50), dateTime datetime);
