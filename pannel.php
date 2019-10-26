@@ -78,7 +78,7 @@
 </head>
 <div class="container">
 <body>
-<h2 class="textcolor">Online Clothing Shop</h2>
+<h2 class="textcolor">Online Clothing Shop - Hussain</h2>
 
 <div class="bggradient">
 </div>
