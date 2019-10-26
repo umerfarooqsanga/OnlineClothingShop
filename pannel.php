@@ -78,7 +78,7 @@
 </head>
 <div class="container">
 <body>
-<h2 class="textcolor">Online Library Management System</h2>
+<h2 class="textcolor">Online Clothing Shop</h2>
 
 <div class="bggradient">
 </div>
